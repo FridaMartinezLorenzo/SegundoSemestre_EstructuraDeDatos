@@ -6,6 +6,7 @@
 /////////////////////////////////////////////////////////////////////////  
 //Estructuras de datos internos del supermercado y datos de los clientes
 
+
 typedef struct{
     int id; //numero de indentificacion del producto
     char nombre[30]; //nombre del producto
