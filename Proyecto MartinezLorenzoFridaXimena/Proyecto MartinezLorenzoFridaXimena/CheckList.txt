@@ -1,0 +1,39 @@
+CheckList
+
+NOTA: En ambos se tienen las mismas funcionalidades, sin embargo anexo tanto el programa en el que viene
+      unificado como uno que viene subdividido como un proyecto(Me marca error al abrir desde la carpeta por tanto
+      sugiero abrir el archivo desde DEV C para que se pueda visualizar el codigo NO SE AFECTA NINGUNA
+      DE SUS FUNCIONALIDADES)
+
+1. Gestión de productos				SI
+		A. Alta de productos		SI
+		B. Baja de productos		SI
+		C. Actualizar producto		SI
+		D. Listar productos		SI
+		E. Regresar			SI
+
+2. Gestión de clientes
+		A. Alta de clientes		SI
+		B. Baja de clientes		SI
+		C. Actualizar cliente		SI
+		D. Listar clientes		SI
+		E. Regresar			SI
+
+3. Gestión de ventas
+		A. Insertar cliente a la cola (aquí se agregarán los productos al carrito)	SI
+		B. Listar la cola de clientes							SI
+		C. Atender cliente								SI
+		D.Regresar									SI
+
+4. Gestión de ganancias
+		A. Listar ganancias				SI
+		B. Consultar ganancias por día			SI
+		C. Regresar					SI
+
+5. Salir	SI
+
+
+
+NOTA: Cambie el programa del inventario porque al momento de ya estar en la marcha era poc práctico
+      y requeria una optimización que permitiera una armonia entre todo el sistema a codificar.
+ 
